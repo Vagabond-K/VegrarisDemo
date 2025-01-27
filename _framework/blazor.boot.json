@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vegraris.Wasm",
   "resources": {
-    "hash": "sha256-p/Tj7qqIp/3aB5dg32rzx5UJ+jCOqPCT1y+uKElGIc0=",
+    "hash": "sha256-vIIVpmWeJbMATAPm5vuErteoFbPZ0/ZWBG5vzc15Nj8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -18,8 +18,8 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-4vBXYxbmAmGayepxtvZMZj/aUrnkfR5K8UNW3PWI9NI=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-fIld9wC7uamYCJZoma/GksWiHNnR2AyRZVDobyQmMlk=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-shgmTCFQf0llgDzwZs/diApFkfpTFGCtVOxbHgrdQY0=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-oitujfKmJjWcUM/9Jl9973UsGJtX4HEJ+y/dVf+nXLs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
       "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Nbv4DDWJLbUri+9QrX+3vnA2FV/Qux8Jm1buTARMlBs=",
@@ -48,14 +48,14 @@
       "System.Private.Uri.wasm": "sha256-XYT6S6FZyNilacR6VZ9vTHyHPhMcoyhGQC91/DX/Elk=",
       "System.Private.Xml.wasm": "sha256-KPNlWGdhaE7sr+BTYi24oLM79rdiykCdW3QnKER1foc=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-tBRRttACauxXfZHHRaS3Va2ZgTaH6rVOw7OF5+gHGhg=",
-      "System.Runtime.wasm": "sha256-zYFlrC2MxxHBqzeRsFVhGUZ9zJsHxBtlOWJqVpxZqYw=",
+      "System.Runtime.wasm": "sha256-OpzCe4E5jl40Rm2jc3NMdqc5jIA2lUQG3uqet7s28xk=",
       "System.Text.Encodings.Web.wasm": "sha256-iYGb61kEQYCSOSl+kGS2rZpnwuN/HrtKzqAZxWnEWgE=",
       "System.Text.Json.wasm": "sha256-PiNMeEut2VtFD9LD5k8EFwgGaS+5yvTSiL2TwlG+6uo=",
       "System.Text.RegularExpressions.wasm": "sha256-qSNlP6rmJ/Kr+CygGHYytUckhzcBVHfyUqEhCXRK/r8=",
       "VagabondK.Indicators.Razor.wasm": "sha256-/VhZrtXl2ShVIwWtXa0o2yfvCvbJMAT5a1wzjF/hsAU=",
       "VagabondK.Indicators.wasm": "sha256-Tvf2WJAsw1EBc2VkLsRtzeAOYgHiZZUvWrzZlDk8Hfc=",
-      "Vegraris.Core.wasm": "sha256-BOScj+xXZpIow117oE6sWsZL6YQdwlKfQTX1Xq1zn8s=",
-      "Vegraris.Wasm.wasm": "sha256-RKXJ6bRyq24LgNSkhncD8zC2fwMzD8GpN4s5P9D3J2k="
+      "Vegraris.Core.wasm": "sha256-MYI9cxW1E1bHsSvs1hSIBECvDjHaq+gs4KCM2SXsQpM=",
+      "Vegraris.Wasm.wasm": "sha256-38u7NefDinO/WQvIV1mYFTbqv033aPN46nPIXM4dKOA="
     }
   },
   "cacheBootResources": true,
