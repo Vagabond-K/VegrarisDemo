@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vegraris.Wasm",
   "resources": {
-    "hash": "sha256-WnmWnpEplvbwCOxUA2Pa+56rNyzv/xbLC6kk+h5NDe0=",
+    "hash": "sha256-MEPsrbgz3M93pBgKQPebbELBnOItjK1WhJJtL0VLWB0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -32,7 +32,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Bi1hyBMWneH/ByWbqT/pNe0B7I/NQFklzD2g3Whdqlk=",
       "Microsoft.JSInterop.wasm": "sha256-/a2ywBVO60H6ZjqSD/C34ynDNuDMyoatYefSNc+dBaU=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Jwrlf0VPydOWncfsAvk569TQrosh6ro1Xkc8HzvG2nQ=",
-      "netstandard.wasm": "sha256-t/fT0GXMj74DpNS5Y1ONy4y8adDopkDprISQ2n5VXf4=",
+      "netstandard.wasm": "sha256-nmv4l/q0jneFi7nAfciwAAIT3XCgKU3jjiS4U/YT8zo=",
       "System.Collections.Concurrent.wasm": "sha256-vah3laFBXX2TRWEeTHDNYx0h8rb0yG8Xm96LMJk+2VA=",
       "System.Collections.NonGeneric.wasm": "sha256-pXBDo4fgPit2OQjIssF+vGInx34i6PwKAXos+UaxiEI=",
       "System.Collections.wasm": "sha256-cp6gxHQrJ30pxPs5WhYFwv4ZooeEwIRO6M9oTEPIn5U=",
@@ -53,9 +53,9 @@
       "System.Text.Json.wasm": "sha256-Q1BGzFy1i7SiFaSdYjPCKY3M7YPDXeAJQmzzp0GdU/w=",
       "System.Text.RegularExpressions.wasm": "sha256-amyl1Zsuf+PHSXqju/cl50LQlTKfUNpDi6hcFh10yrM=",
       "VagabondK.Indicators.Razor.wasm": "sha256-/VhZrtXl2ShVIwWtXa0o2yfvCvbJMAT5a1wzjF/hsAU=",
-      "VagabondK.Indicators.wasm": "sha256-Tvf2WJAsw1EBc2VkLsRtzeAOYgHiZZUvWrzZlDk8Hfc=",
+      "VagabondK.Indicators.wasm": "sha256-Oc5I9HdsaCidvw/4SovjbELwBD9fHb9cvVeE6LRyZEM=",
       "Vegraris.Core.wasm": "sha256-e3ORio47HPDPr1SYX/zqox8yJ+CTfH7XhtAcjCn849Y=",
-      "Vegraris.Wasm.wasm": "sha256-VUqyHwugye4eu6VwyCkYg/xWdf3PGUNj9zkX04sBAN0="
+      "Vegraris.Wasm.wasm": "sha256-sRnVxMI8XxaXRzOLcxSAa/63pmK/zCrjsZsOeNdULzE="
     }
   },
   "cacheBootResources": true,
