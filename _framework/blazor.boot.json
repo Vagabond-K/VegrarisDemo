@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vegraris.Wasm",
   "resources": {
-    "hash": "sha256-X/upbDKcf7hJHXDlYiFfFsA95zHGwYJpX18KvFXrYR8=",
+    "hash": "sha256-6MKTyXgLjIO+kRqqMYZt0mStaYoAsjDX2mlSLvrwAfo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -55,7 +55,7 @@
       "VagabondK.Indicators.Razor.wasm": "sha256-RNxlZ1qM76AMTU6A83znA+VZ8toF0Qzx4987B2nKftk=",
       "VagabondK.Indicators.wasm": "sha256-DSh5jn9hQl9jkJf1MWD22jCnJ61gzJHEpv2bvns7CcA=",
       "Vegraris.Core.wasm": "sha256-e3ORio47HPDPr1SYX/zqox8yJ+CTfH7XhtAcjCn849Y=",
-      "Vegraris.Wasm.wasm": "sha256-Z2C59Yt2bopsdGyDVLtW+zazAxHd4pur71aQVlxOc1A="
+      "Vegraris.Wasm.wasm": "sha256-DJ3hC51xZzPWECrwfH2ipJShVS62BJEt7li4hpdSpcs="
     }
   },
   "cacheBootResources": true,
